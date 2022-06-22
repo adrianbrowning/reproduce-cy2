@@ -6,7 +6,7 @@ module.exports = defineConfig({
 			// implement node event listeners here
 		},
 	},
-	projectId: 'ens-nota15-dev-nota15-cypress',
+	projectId: 'sorry-cypress-link-test',
 	watchForFileChanges: false,
 	viewportWidth: 1366,
 	viewportHeight: 768,
